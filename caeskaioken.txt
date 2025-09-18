@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-daveeeeeeee
-=======
+ramHEAD
+daveee
 dabegay
->>>>>>> 9fa98b71f65e3d82e4787005c39ac21270d86381
+9fa98b71f65e3d82e4787005c39ac21270d86381
 
 hola manu
+
+dabegdevelop
